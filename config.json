@@ -30,7 +30,7 @@
                 "User-Agent": ["Mozilla/5.0"],
                 "Accept-Encoding": ["gzip, deflate"],
                 "Connection": ["keep-alive"],
-                "Pragma": "no-cache"]
+                "Pragma": ["no-cache"]
               }
             }
           }
